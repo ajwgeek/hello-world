@@ -1,7 +1,7 @@
 {
     "name": "ajwgeek/hello-world",
     "description": "A basic \"Hello, world!\" example",
-    "license": "Proprietary",
+    "license": "MIT",
     "type": "library",
     "keywords": [
         "hello",
